@@ -275,3 +275,4 @@ D:\Projects\dotnet\myself\Documentation\RazorPagesMovie\obj\Debug\net8.0\refint\
 D:\Projects\dotnet\myself\Documentation\RazorPagesMovie\obj\Debug\net8.0\RazorPagesMovie.pdb
 D:\Projects\dotnet\myself\Documentation\RazorPagesMovie\obj\Debug\net8.0\RazorPagesMovie.genruntimeconfig.cache
 D:\Projects\dotnet\myself\Documentation\RazorPagesMovie\obj\Debug\net8.0\ref\RazorPagesMovie.dll
+D:\Projects\dotnet\myself\Documentation\RazorPagesMovie\obj\Debug\net8.0\RazorPagesMovie.sourcelink.json
